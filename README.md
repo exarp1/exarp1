@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - :frog: Fun fact: I like to make memes in my spare time, using a Wacom tablet and Affinity Photo
 
-![image](mcFLy.jpg)
+![image](./mcFLy.jpg)
 
 
 

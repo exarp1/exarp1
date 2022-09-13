@@ -4,4 +4,4 @@
 - 📫 How to reach me: hire.richard_at_gmail.com
 - 😄 Pronouns: he/him
 - :frog: Fun fact: I like to make memes in my spare time, using a Wacom tablet and Affinity Photo
-![McFly](mcFly.jpg)
+<img src="mcFly.jpg" style="max-width: 500px;"/>
